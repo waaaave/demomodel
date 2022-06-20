@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
-      <a href="/demo" style={{'display': 'inline', 'fontSize':'24px', 'textAlign':'center'}}>click to see demo</a>
+      <a href="/demo" style={{'display': 'inline', 'fontSize':'24px'}}>click to see demo</a>
     </div>
   )
 }
